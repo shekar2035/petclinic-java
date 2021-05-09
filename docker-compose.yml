@@ -11,3 +11,4 @@ mysql:
   volumes:
     - "./conf.d:/etc/mysql/conf.d:ro"
       hygatakjnu
+  next changes
